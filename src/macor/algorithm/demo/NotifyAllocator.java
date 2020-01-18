@@ -3,7 +3,7 @@ package macor.algorithm.demo;
 import java.util.List;
 
 /**
- * 此转账适合并发冲突量不大时的场合，因为在大数据量环境下，通过等待-通知机制可以提高性能
+ * 此转账适合并发冲突量大的场合，因为在大数据量环境下，通过等待-通知机制可以提高性能
  */
 public class NotifyAllocator {
     private List<Object> als;
