@@ -1,4 +1,4 @@
-package macor.algorithm.demo;
+package macor.algorithm.demo.concurrent;
 
 public class Calculate {
     private long count = 0;

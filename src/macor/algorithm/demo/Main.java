@@ -1,5 +1,7 @@
 package macor.algorithm.demo;
 
+import macor.algorithm.demo.concurrent.Calculate;
+
 public class Main {
 
     public static void main(String[] args) {

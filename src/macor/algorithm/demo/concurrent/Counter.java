@@ -1,4 +1,4 @@
-package macor.algorithm.demo;
+package macor.algorithm.demo.concurrent;
 
 public class Counter {
     private long value;

@@ -1,4 +1,4 @@
-package macor.algorithm.demo;
+package macor.algorithm.demo.concurrent;
 
 import java.util.ArrayList;
 import java.util.List;
