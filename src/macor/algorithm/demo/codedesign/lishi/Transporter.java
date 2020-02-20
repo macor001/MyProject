@@ -1,4 +1,4 @@
-package macor.algorithm.demo.codedis;
+package macor.algorithm.demo.codedesign.lishi;
 
 import com.sun.deploy.nativesandbox.comm.Request;
 import com.sun.deploy.nativesandbox.comm.Response;
